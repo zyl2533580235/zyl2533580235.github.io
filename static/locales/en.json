@@ -1,54 +1,54 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "杰克的博客"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "home": "首页",
+    "about_me": "关于我",
+    "skills": "技能",
+    "projects": "项目",
+    "career": "职业",
+    "blog": "博客",
+    "link": "友情链接"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "about_me": "关于我",
+    "des": "我是一名全栈工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "我的技能"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "my_projects": "我的项目",
+    "jalpc": "这是一个我自己的GitHub项目.",
+    "cpython": "这是一个别人的GitHub项目.",
+    "familycode": "这是另外一个项目."
   },
   "career":{
-    "my_career": "My Career",
+    "my_career": "职业生涯",
     "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
+    "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
+    "nextcode_date": "2016年4月",
+    "nextcode_job": "Python工程师",
+    "netease": "网易游戏",
+    "netease_des": "在网易游戏，我了解到游戏体系，并使用Python代码为自动化运维服务.",
+    "netease_date": "2015年6月",
+    "netease_job": "运维开发工程师",
     "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    "ucloud_des": "在Ucloud,我开始和服务器、操作系统打交道，并使用shell脚本管理海量服务器.",
+    "ucloud_date": "2013年9月",
+    "ucloud_job": "运维开发工程师",
+    "college": "毕业",
+    "college_des": "2013年7月大学毕业，开始了IT职业生涯",
+    "college_date": "2013年7月",
+    "college_job": "学生"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "我的博客"
   },
   "link":{
-    "link": "Link",
-    "view": "views"
+    "link": "友情链接",
+    "view": "次访问"
   }
 
 }
